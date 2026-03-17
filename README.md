@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Godugu Venu Gopal</h1>
-<h3 align="center">MERN Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Pramod Kumar</h1>
+<h3 align="center">Full Stack Developer | Passionate Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://goduguvenugopal.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
