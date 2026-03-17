@@ -36,8 +36,8 @@ I love solving real-world problems with clean and efficient code. My passion for
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goduguvenugopal&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goduguvenugopal&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pramodkumarteluri&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkumarteluri&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
