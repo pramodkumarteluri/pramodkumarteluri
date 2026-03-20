@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pramod%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pramod%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AWS%20Learner&descAlignY=51&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+MERN+Stack+Applications;Focused+on+Real-world+Projects;Learning+Cloud+%26+AI;Always+Improving+🚀)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+responsive+web+apps;Learning+AWS+%26+Cloud;Exploring+real-world+projects;Consistent+growth+mindset+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://goduguvenugopal.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodkumarteluri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-E05C1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodkumarteluri)
 
 </div>
 
@@ -15,94 +19,93 @@
 
 ## 👨‍💻 About Me
 
-javascript
+```javascript
 const pramod = {
-  name: "Teluri Pramod Kumar",
-  role: "Full Stack Developer",
+  name: "Pramod Kumar",
   location: "India 🇮🇳",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-  experience: "Building full-stack applications with focus on UI, performance & scalability",
-  currentFocus: ["Cloud (AWS)", "AI tools", "Advanced authentication"],
-  strength: "Turning ideas into real-world working products",
+  role: "Aspiring Software Engineer",
+  stack: ["HTML", "CSS", "JavaScript", "React"],
+  cloud: ["AWS (IAM, EC2, S3, VPC)"],
+  focus: ["Frontend Development", "Cloud Basics"],
+  currently: "Building projects & strengthening fundamentals",
+  goal: "To land a software engineering role and grow in full-stack & cloud",
+  funFact: "I break things first, then figure out how they actually work 😄"
 };
-
-
-
-## 🚀 What I Do
-
-* Build responsive full-stack web apps using MERN stack
-* Design clean and user-friendly UI/UX
-* Develop secure APIs with JWT authentication
-* Deploy applications using Netlify, Vercel, Render
-* Work with REST APIs and real-world integrations
+```
+| Project                      | Description                                     | Tech                  |
+| ---------------------------- | ----------------------------------------------- | --------------------- |
+| 🌐 **Portfolio Website**     | Personal portfolio showcasing projects & skills | HTML, CSS, JavaScript |
+| 🧠 **Mock Test App**         | Practice platform for quizzes/tests             | JavaScript, React     |
+| ☁️ **AWS Practice Projects** | Hands-on cloud experiments (EC2, S3 hosting)    | AWS                   |
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge\&logo=redux\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+### ⚙️ Backend & Infra
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ⚙️ Backend
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-
-### 🗄️ Database & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
+### 🧰 Tools & Dev
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
-
-## 📚 Currently Learning
-
-* AWS (IAM, EC2, S3, VPC)
-* AI APIs and integrations
-* Advanced authentication and security
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pramodkumarteluri&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkumarteluri&layout=compact&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=pramodkumarteluri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkumarteluri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodkumarteluri&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-## 🎯 What Makes Me Different
+## 🏆 GitHub Achievements
 
-* Focus on building real-world, deployable applications
-* Strong emphasis on clean UI and performance
-* Continuous learner adapting to new technologies
+<div align="center">
 
----
+![](https://github-profile-trophy.vercel.app/?username=pramodkumarteluri&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
-## 🤝 Let's Connect
-
-* 🌐 Portfolio: [https://goduguvenugopal.vercel.app](https://goduguvenugopal.vercel.app)
-* 💼 LinkedIn: [https://www.linkedin.com/in/pramodkumarteluri/](https://www.linkedin.com/in/pramodkumarteluri/)
+</div>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📈 Contribution Activity
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" />
-```
+<div align="center">
+
+[![Pramod's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pramodkumarteluri&theme=tokyo-night&hide_border=true&area=true)](https://github.com/pramodkumarteluri)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodkumarteluri)
+
+<br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=pramodkumarteluri&icon=6&color=6)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
+
