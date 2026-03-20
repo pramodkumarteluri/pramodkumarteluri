@@ -104,6 +104,7 @@ const pramod = {
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodkumarteluri)
 
 <br/>
+### 👁️ Profile Views
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=pramodkumarteluri&icon=6&color=6)
 
