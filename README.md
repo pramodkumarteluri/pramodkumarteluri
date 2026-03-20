@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Pramod%20Kumar&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=40" />
 
-# Aspiring Software Engineer | AI/ML Enthusiast | MERN Full-Stack Developer
+## Aspiring Software Engineer | AI/ML Enthusiast | MERN Full-Stack Developer
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+responsive+web+apps;Learning+AWS+%26+Cloud;Exploring+real-world+projects;Consistent+growth+mindset+%F0%9F%9A%80)](https://git.io/typing-svg)
