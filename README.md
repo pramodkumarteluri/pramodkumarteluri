@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-E05C1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://pramodkumarteluri.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pramodkumarteluri)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-E05C1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pramodkumarteluri.netlify.app/Pramod%20Kumar.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodkumarteluri)
 
 </div>
@@ -99,8 +99,8 @@ const pramod = {
 
 ### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge)](https://pramodkumarteluri.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pramodkumarteluri)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodkumarteluri)
 
 <br/>
