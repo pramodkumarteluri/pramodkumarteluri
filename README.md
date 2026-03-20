@@ -2,8 +2,6 @@
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Pramod%20Kumar&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=40" />
-
-# Pramod Kumar
 Aspiring Software Engineer | AI/ML Enthusiast | MERN Full-Stack Developer
 
 <!-- Typing Animation -->
