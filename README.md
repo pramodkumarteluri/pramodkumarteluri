@@ -11,7 +11,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://pramodkumarteluri.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pramodkumarteluri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodkumarteluri/)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-E05C1A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pramodkumarteluri.netlify.app/Pramod%20Kumar.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramodkumarteluri)
 
